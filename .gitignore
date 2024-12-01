@@ -1,0 +1,51 @@
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Build outputs
+dist/
+build/
+out/
+cache/
+artifacts/
+
+# Environment files
+.env
+.env.local
+.env.production
+.env.test
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Hardhat
+typechain/
+typechain-types/
+coverage/
+coverage.json
+
+# Private files
+github_accounts.csv
+project_description.txt
+
+# Logs
+*.log
+logs/
+
+# Test
+.nyc_output/
+
+# Temporary files
+*.tmp
+temp/
+
