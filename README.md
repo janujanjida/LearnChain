@@ -6,7 +6,7 @@ LearnChain is a blockchain-based Proof-of-Learning (PoL) protocol that provides 
 
 ## Vision
 
-Build a verifiable, trustless, cross-institutional learning achievement certification system that revolutionizes how educational credentials are issued, verified, and shared.
+Build a verifiable, trustless, cross-institutional learning achievement certification system that revolutionizes how educational credentials are issued, verified, and shared across the decentralized web.
 
 ## Key Features
 
