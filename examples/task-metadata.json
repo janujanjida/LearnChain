@@ -1,0 +1,88 @@
+{
+  "title": "Introduction to Smart Contracts",
+  "description": "Learn the fundamentals of smart contract development on Ethereum",
+  "category": "Blockchain Development",
+  "difficulty": "intermediate",
+  "estimatedTime": "4 hours",
+  "language": "English",
+  "requirements": [
+    "Basic programming knowledge",
+    "Understanding of blockchain concepts",
+    "JavaScript familiarity"
+  ],
+  "learningObjectives": [
+    "Understand smart contract architecture",
+    "Write basic Solidity contracts",
+    "Deploy contracts to testnet",
+    "Interact with deployed contracts"
+  ],
+  "curriculum": [
+    {
+      "module": 1,
+      "title": "Introduction to Solidity",
+      "topics": ["Variables and Types", "Functions", "Modifiers"],
+      "duration": "60 minutes"
+    },
+    {
+      "module": 2,
+      "title": "Contract Structure",
+      "topics": ["State Variables", "Events", "Inheritance"],
+      "duration": "60 minutes"
+    },
+    {
+      "module": 3,
+      "title": "Development Environment",
+      "topics": ["Hardhat Setup", "Testing", "Deployment"],
+      "duration": "90 minutes"
+    },
+    {
+      "module": 4,
+      "title": "Final Project",
+      "topics": ["Build Token Contract", "Write Tests", "Deploy"],
+      "duration": "90 minutes"
+    }
+  ],
+  "resources": [
+    {
+      "type": "documentation",
+      "title": "Solidity Documentation",
+      "url": "https://docs.soliditylang.org"
+    },
+    {
+      "type": "video",
+      "title": "Smart Contract Basics",
+      "url": "https://example.com/video"
+    },
+    {
+      "type": "tutorial",
+      "title": "Building Your First DApp",
+      "url": "https://example.com/tutorial"
+    }
+  ],
+  "assessmentCriteria": [
+    "Code quality and best practices",
+    "Test coverage (>80%)",
+    "Successful deployment to testnet",
+    "Documentation completeness"
+  ],
+  "reward": {
+    "type": "token",
+    "amount": "100",
+    "currency": "LEARN"
+  },
+  "credential": {
+    "type": "SBT",
+    "name": "Smart Contract Developer",
+    "level": "Intermediate"
+  },
+  "instructor": {
+    "name": "Jane Doe",
+    "institution": "Blockchain University",
+    "credentials": ["Ethereum Core Developer", "10+ years experience"]
+  },
+  "tags": ["solidity", "ethereum", "smart-contracts", "blockchain", "web3"],
+  "version": "1.0.0",
+  "createdAt": "2024-12-01",
+  "updatedAt": "2024-12-01"
+}
+
