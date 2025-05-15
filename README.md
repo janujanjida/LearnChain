@@ -91,10 +91,23 @@ npx hardhat run scripts/deploy.js --network <network-name>
 ## Roadmap
 
 - [x] Phase 1: Project initialization and basic infrastructure
-- [ ] Phase 2: Core contract development
-- [ ] Phase 3: Testing and security audits
+- [x] Phase 2: Core contract development
+- [x] Phase 3: Testing and security audits
 - [ ] Phase 4: Frontend development
 - [ ] Phase 5: Mainnet deployment
+
+## Contract Addresses
+
+### Testnet (Sepolia)
+- LearnToken: TBD
+- TaskManager: TBD
+- LearningProof: TBD
+- CredentialSBT: TBD
+- RewardManager: TBD
+- InstitutionRegistry: TBD
+
+### Mainnet
+- Coming soon
 
 ## Use Cases
 
