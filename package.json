@@ -6,12 +6,18 @@
   "scripts": {
     "compile": "hardhat compile",
     "test": "hardhat test",
+    "test:gas": "REPORT_GAS=true hardhat test",
     "coverage": "hardhat coverage",
     "deploy": "hardhat run scripts/deploy.js",
-    "verify": "hardhat verify",
+    "deploy:sepolia": "hardhat run scripts/deploy.js --network sepolia",
+    "verify": "hardhat run scripts/verify.js",
     "lint": "solhint 'contracts/**/*.sol'",
     "lint:fix": "solhint 'contracts/**/*.sol' --fix",
-    "clean": "hardhat clean"
+    "format": "prettier --write 'contracts/**/*.sol' 'test/**/*.js' 'scripts/**/*.js'",
+    "format:check": "prettier --check 'contracts/**/*.sol' 'test/**/*.js' 'scripts/**/*.js'",
+    "clean": "hardhat clean",
+    "node": "hardhat node",
+    "size": "hardhat size-contracts"
   },
   "keywords": [
     "blockchain",
