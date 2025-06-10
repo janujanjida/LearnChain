@@ -67,19 +67,29 @@ cp .env.example .env
 ### Compile Contracts
 
 ```bash
-npx hardhat compile
+npm run compile
 ```
 
 ### Run Tests
 
 ```bash
-npx hardhat test
+npm test
+
+# Run with gas reporting
+npm run test:gas
+
+# Run with coverage
+npm run coverage
 ```
 
 ### Deploy
 
 ```bash
-npx hardhat run scripts/deploy.js --network <network-name>
+# Deploy to local network
+npm run deploy
+
+# Deploy to Sepolia testnet
+npm run deploy:sepolia
 ```
 
 ## Core Contracts
