@@ -42,9 +42,10 @@ By participating in this project, you agree to maintain a respectful and inclusi
 
 ### Prerequisites
 
-- Node.js >= 18.x
-- npm or yarn
-- Git
+- Node.js >= 18.x (we recommend 18.17.0)
+- npm >= 9.x or yarn >= 1.22.x
+- Git >= 2.x
+- A code editor (VS Code recommended)
 
 ### Installation
 
