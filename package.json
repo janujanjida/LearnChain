@@ -33,6 +33,14 @@
   ],
   "author": "LearnChain Team",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/janujanjida/LearnChain.git"
+  },
+  "bugs": {
+    "url": "https://github.com/janujanjida/LearnChain/issues"
+  },
+  "homepage": "https://github.com/janujanjida/LearnChain#readme",
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^4.0.0",
     "@nomicfoundation/hardhat-verify": "^2.0.0",
