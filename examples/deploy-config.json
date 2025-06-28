@@ -1,0 +1,39 @@
+{
+  "networks": {
+    "sepolia": {
+      "rpcUrl": "https://sepolia.infura.io/v3/YOUR_KEY",
+      "chainId": 11155111,
+      "explorer": "https://sepolia.etherscan.io"
+    },
+    "polygon": {
+      "rpcUrl": "https://polygon-rpc.com",
+      "chainId": 137,
+      "explorer": "https://polygonscan.com"
+    },
+    "arbitrum": {
+      "rpcUrl": "https://arb1.arbitrum.io/rpc",
+      "chainId": 42161,
+      "explorer": "https://arbiscan.io"
+    }
+  },
+  "contracts": {
+    "learnToken": {
+      "initialSupply": "100000000"
+    },
+    "credentialSBT": {
+      "name": "LearnChain Credentials",
+      "symbol": "LEARNCRED",
+      "baseURI": "https://api.learnchain.io/credentials/"
+    },
+    "rewardManager": {
+      "baseAmount": "100",
+      "multipliers": {
+        "beginner": 5000,
+        "intermediate": 10000,
+        "advanced": 15000,
+        "expert": 25000
+      }
+    }
+  }
+}
+
