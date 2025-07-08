@@ -1,5 +1,10 @@
 # LearnChain API Reference
 
+> Complete API documentation for LearnChain smart contracts
+
+**Version**: 0.9.0  
+**Last Updated**: September 2025
+
 ## TaskManager
 
 ### createTask
