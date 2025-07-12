@@ -38,6 +38,10 @@ coverage.json
 github_accounts.csv
 project_description.txt
 
+# Deployment files
+deployments/
+addresses.json
+
 # Logs
 *.log
 logs/
