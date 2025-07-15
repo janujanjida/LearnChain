@@ -1,5 +1,10 @@
 # LearnChain Architecture
 
+> System architecture and design documentation
+
+**Version**: 0.9.0  
+**Last Updated**: September 2025
+
 ## System Overview
 
 LearnChain implements a decentralized learning certification system with the following core components:
