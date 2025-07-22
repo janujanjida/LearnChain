@@ -1,5 +1,10 @@
 # Security Considerations
 
+> Security best practices and considerations for LearnChain
+
+**Version**: 0.9.0  
+**Last Updated**: September 2025
+
 ## Smart Contract Security
 
 ### Access Control
