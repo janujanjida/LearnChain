@@ -160,7 +160,8 @@ MIT License - see LICENSE file for details
 ## Contact
 
 For questions and support, please open an issue on GitHub or reach us at:
-- Email: support@learnchain.io
-- Discord: [Community Server]
-- Twitter: @LearnChain
+- **Email**: support@learnchain.io
+- **Discord**: [Join Community Server](https://discord.gg/learnchain)
+- **Twitter**: [@LearnChain](https://twitter.com/learnchain)
+- **GitHub**: [LearnChain Repository](https://github.com/janujanjida/LearnChain)
 
