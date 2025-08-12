@@ -121,11 +121,36 @@ npx hardhat run scripts/deploy.js --network <network-name>
 
 We welcome contributions! Please see our contributing guidelines for more details.
 
+## Performance
+
+- **Gas Optimized**: Efficient contract design minimizing transaction costs
+- **Scalable**: Supports multiple L2 solutions for high throughput
+- **Secure**: Comprehensive security measures and access controls
+
+## Community
+
+- **Discord**: Join our developer community
+- **Twitter**: Follow @LearnChain for updates
+- **Forum**: Discuss ideas and get support
+
+## Acknowledgments
+
+Built with:
+- Hardhat
+- OpenZeppelin Contracts
+- Ethers.js
+- TheGraph
+
+Special thanks to all contributors and the Web3 education community.
+
 ## License
 
 MIT License - see LICENSE file for details
 
 ## Contact
 
-For questions and support, please open an issue on GitHub.
+For questions and support, please open an issue on GitHub or reach us at:
+- Email: support@learnchain.io
+- Discord: [Community Server]
+- Twitter: @LearnChain
 
