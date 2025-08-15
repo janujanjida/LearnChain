@@ -1,0 +1,50 @@
+# Example TheGraph queries for LearnChain
+
+query GetLearner($id: ID!) {
+  learner(id: $id) {
+    id
+    totalTasksCompleted
+    totalCredentialsEarned
+    totalRewardsClaimed
+    credentials {
+      id
+      taskId
+      tokenId
+      issuedAt
+    }
+  }
+}
+
+query GetTask($taskId: ID!) {
+  task(id: $taskId) {
+    id
+    creator
+    metadataURI
+    difficulty
+    baseReward
+    currentCompletions
+    maxCompletions
+    status
+  }
+}
+
+query GetRecentTasks($first: Int!) {
+  tasks(first: $first, orderBy: createdAt, orderDirection: desc) {
+    id
+    creator
+    difficulty
+    baseReward
+    createdAt
+  }
+}
+
+query GetInstitution($id: ID!) {
+  institution(id: $id) {
+    id
+    name
+    isVerified
+    tasksCreated
+    credentialsIssued
+  }
+}
+
