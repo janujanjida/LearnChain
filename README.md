@@ -129,7 +129,9 @@ npx hardhat run scripts/deploy.js --network <network-name>
 
 ## Contributing
 
-We welcome contributions! Please see our contributing guidelines for more details.
+We welcome contributions from the community! Whether you're fixing bugs, adding features, improving documentation, or spreading the word, we appreciate your help.
+
+Please see our [Contributing Guidelines](./CONTRIBUTING.md) for more details on how to get started.
 
 ## Performance
 
