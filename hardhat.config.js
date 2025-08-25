@@ -14,6 +14,9 @@ module.exports = {
         runs: 200,
       },
       viaIR: true,
+      metadata: {
+        bytecodeHash: "none",
+      },
     },
   },
   networks: {
