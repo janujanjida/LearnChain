@@ -54,6 +54,28 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Full documentation
 - Security audit
 
+## [0.9.0] - 2025-09-15
+
+### Added
+- Complete smart contract system
+- Comprehensive test suite (>95% coverage)
+- Deployment and management scripts
+- Extensive documentation
+- CI/CD workflows
+- Example metadata schemas
+- Quick start guide
+- FAQ and glossary
+
+### Fixed
+- Gas optimization improvements
+- Enhanced error handling
+- Improved access control
+
+### Security
+- Added custom error library
+- Enhanced signature verification
+- Improved reentrancy protection
+
 [Unreleased]: https://github.com/janujanjida/LearnChain/compare/v1.0.0...HEAD
 [1.0.0]: https://github.com/janujanjida/LearnChain/releases/tag/v1.0.0
 
