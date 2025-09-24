@@ -47,11 +47,21 @@ Build a verifiable, trustless, cross-institutional learning achievement certific
 - Node.js >= 18.x
 - npm or yarn
 - Hardhat
+- Git
 
-### Installation
+### Quick Installation
 
 ```bash
+git clone https://github.com/janujanjida/LearnChain.git
+cd LearnChain
 npm install
+```
+
+### Environment Setup
+
+```bash
+cp .env.example .env
+# Edit .env with your configuration
 ```
 
 ### Compile Contracts
