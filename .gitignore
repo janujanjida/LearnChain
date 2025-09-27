@@ -41,6 +41,7 @@ project_description.txt
 # Deployment files
 deployments/
 addresses.json
+abi/
 
 # Logs
 *.log
