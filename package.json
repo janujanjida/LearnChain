@@ -15,6 +15,7 @@
     "lint:fix": "solhint 'contracts/**/*.sol' --fix",
     "format": "prettier --write 'contracts/**/*.sol' 'test/**/*.js' 'scripts/**/*.js'",
     "format:check": "prettier --check 'contracts/**/*.sol' 'test/**/*.js' 'scripts/**/*.js'",
+    "export-abi": "node scripts/export-abi.js",
     "clean": "hardhat clean",
     "node": "hardhat node",
     "size": "hardhat size-contracts"
