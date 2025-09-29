@@ -54,7 +54,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Full documentation
 - Security audit
 
-## [0.9.0] - 2025-09-15
+## [0.9.0] - 2025-09-28
 
 ### Added
 - Complete smart contract system
