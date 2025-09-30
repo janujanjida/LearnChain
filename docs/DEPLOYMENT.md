@@ -1,5 +1,10 @@
 # Deployment Guide
 
+> Comprehensive deployment guide for LearnChain
+
+**Version**: 0.9.0  
+**Last Updated**: September 2025
+
 ## Prerequisites
 
 - Node.js >= 18.x
