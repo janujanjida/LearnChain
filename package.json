@@ -45,7 +45,7 @@
     "@nomicfoundation/hardhat-toolbox": "^4.0.0",
     "@nomicfoundation/hardhat-verify": "^2.0.0",
     "@openzeppelin/hardhat-upgrades": "^3.0.0",
-    "hardhat": "^2.19.0",
+    "hardhat": "^3.0.7",
     "hardhat-gas-reporter": "^1.0.9",
     "solhint": "^4.0.0",
     "solidity-coverage": "^0.8.5"
